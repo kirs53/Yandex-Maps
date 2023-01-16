@@ -1,1 +1,1 @@
-{"type":"FeatureCollection","features":[{"type":"Feature","properties":{"Очкур":30},"geometry":{"coordinates":[36.18437477324699,51.74084865744251],"type":"Point"}}]}
+{"type":"FeatureCollection","features":[{"type":"Feature","properties":{"Очкур":30},"geometry":{"coordinates":[36.18437477324699,51.74084865744251],"type":"Point"}},{"type":"Feature","properties":{"хабарик":""},"geometry":{"coordinates":[30.24540097515211,59.94156328676857],"type":"Point"}}]}
